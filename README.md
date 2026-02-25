@@ -30,8 +30,9 @@ Se configuró el recurso **Animales** con la siguiente estructura de datos:
     "id": "1"
 }
 
+```
 
-# 2. Bitácora de Operaciones CRUD (Respuestas Postman)
+### 2. Bitácora de Operaciones CRUD (Respuestas Postman)
 
 ---
 
@@ -223,7 +224,7 @@ Se configuró el recurso **Animales** con la siguiente estructura de datos:
 ```
 
 
-# 3. Resumen de Endpoints y Código HTTP.
+### 3. Resumen de Endpoints y Código HTTP.
 
 | Acción     | Método   | Endpoint     | Código HTTP   |
 |------------|----------|--------------|---------------|
